@@ -1,0 +1,13 @@
+{
+  "clients":[
+    { "lastName":"WIlliam", "firstName":"Lachance" , "age": "26"},
+    { "lastName":"Orlando", "firstName":"Mosquera" , "age": "72" },
+    { "lastName":"Kirby", "firstName":"Dabrowski" , "age": "56" },
+    { "lastName":"Gudrun", "firstName":"Kupfer" , "age": "24" },
+    { "lastName":"Melda", "firstName":"Reineke" , "age": "76" },
+    { "lastName":"Nereida", "firstName":"Kahan" , "age": "67" },
+    { "lastName":"Jenniffer", "firstName":"Coy" , "age": "87" },
+    { "lastName":"Errol", "firstName":"Futral" , "age": "49" },
+    { "lastName":"Armida", "firstName":"Derrickson" , "age": "79" },
+    { "lastName":"Saturnina", "firstName":"Pinkard" , "age": "22" }
+]}
