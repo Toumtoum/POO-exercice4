@@ -16,16 +16,11 @@ function displayArray (firstName,lastName,age){
     col2.innerHTML += this.lastName;
     var col3 = row.insertCell(2);
     col3.innerHTML += this.age;
-  },
-
-  this.sorting = function (arrayToSort,key){
-
-    arrayToSort.sort(function (a,b){
-      return a[key].localeCompare(b[key]);
-
-    });
   }
+
 };
+
+
 
 var sup = {
   suppression : function (){
